@@ -1,0 +1,214 @@
+tunis Bab El Bhar
+tunis Bab Souika
+tunis Carthage
+tunis Cité El Khadra
+tunis El Kabaria
+tunis El Menzah
+tunis El Omrane
+tunis El Omrane Supérieur
+tunis El Ouardia
+tunis Ettahrir
+tunis Ezzouhour
+tunis Hrairia
+tunis La Goulette
+tunis La Marsa
+tunis Le Bardo
+tunis Le Kram
+tunis Médina
+tunis Séjoumi
+tunis Sidi El Béchir
+tunis Sidi Hassine
+ariana Ariana
+ariana Ettadhamen
+ariana Kalaat El Andalous
+ariana Mnihla
+ariana Raoued
+ariana Sidi Thabet
+béja Amdoun
+béja Béja
+béja Goubellat
+béja Medjez El Bab
+béja Nefza
+béja Téboursouk
+béja Testour
+ben_arous Ben Arous
+ben_arous Boumhel El Bassatine
+ben_arous El Mourouj
+ben_arous Ezzahra
+ben_arous Fouchana
+ben_arous Hammam Chott
+ben_arous Hammam Lif
+ben_arous Mohamedia
+ben_arous Mornag
+ben_arous Radès
+bizerte Bizerte Nord
+bizerte Bizerte Sud
+bizerte Ghar El Melh
+bizerte Ghezala
+bizerte Mateur
+bizerte Menzel Bourguiba
+bizerte Menzel Jemil
+bizerte Ras Jebel
+bizerte Sejnane
+bizerte Tinja
+bizerte Utique
+gabès El Hamma
+gabès Gabès Médina
+gabès Gabès Ouest
+gabès Gabès Sud
+gabès Ghannouch
+gabès Matmata
+gabès Menzel Habib
+gabès Nouvelle Matmata
+gabès Mareth
+gafsa Belkhir
+gafsa El Guettar
+gafsa Gafsa Nord
+gafsa Gafsa Sud
+gafsa Métlaoui
+gafsa Moularès
+gafsa Redeyef
+gafsa Sidi Aich
+gafsa Sned
+jendouba Aïn Draham
+jendouba Balta Bou Aouane
+jendouba Beni M'Tir
+jendouba Fernana
+jendouba Ghardimaou
+jendouba Jendouba
+jendouba Oued Meliz
+kairouan Bou Hajla
+kairouan Chebika
+kairouan Chrarda
+kairouan Hajeb El Ayoun
+kairouan Kairouan Nord
+kairouan Kairouan Sud
+kairouan Nasrallah
+kairouan Oueslatia
+kairouan Sbikha
+kasserine El Ayoun
+kasserine Ezzouhour
+kasserine Foussana
+kasserine Haïdra
+kasserine Hassi El Ferid
+kasserine Kasserine Nord
+kasserine Kasserine Sud
+kasserine Majel Bel Abbès
+kasserine Sbeitla
+kasserine Sbiba
+kebili Douz
+kebili Faouar
+kebili Kebili Nord
+kebili Kebili Sud
+kebili Souk Lahad
+kef Dahmani
+kef Jerissa
+kef Kalaat Khasba
+kef Kalaat Senan
+kef Kef Est
+kef Kef Ouest
+kef Nebeur
+kef Sers
+mahdia Bou Merdes
+mahdia Chorbane
+mahdia El Jem
+mahdia Essouassi
+mahdia Ksour Essef
+mahdia Mahdia
+mahdia Melloulèche
+mahdia Ouled Chamekh
+mahdia Sidi Alouane
+manouba Borj El Amri
+manouba Douar Hicher
+manouba El Battan
+manouba La Manouba
+manouba Mornaguia
+manouba Oued Ellil
+manouba Tebourba
+medenine Ben Guerdane
+medenine Beni Khedache
+medenine Djerba Houmt Souk
+medenine Djerba Midoun
+medenine Djerba Ajim
+medenine Medenine Nord
+medenine Medenine Sud
+medenine Zarzis
+monastir Bekalta
+monastir Bembla
+monastir Beni Hassen
+monastir Jammel
+monastir Ksibet El Mediouni
+monastir Moknine
+monastir Monastir
+monastir Ouerdanine
+monastir Sahline
+monastir Sayada
+monastir Teboulba
+monastir Zeramdine
+nabeul Beni Khiar
+nabeul Bou Argoub
+nabeul Dar Chaâbane El Fehri
+nabeul El Haouaria
+nabeul Grombalia
+nabeul Hammamet
+nabeul Kelibia
+nabeul Korba
+nabeul Menzel Bouzelfa
+nabeul Nabeul
+sfax Agareb
+sfax Bir Ali Ben Khalifa
+sfax El Amra
+sfax El Hencha
+sfax Mahrès
+sfax Menzel Chaker
+sfax Sakiet Eddaier
+sfax Sakiet Ezzit
+sfax Sfax Médina
+sfax Sfax Nord
+sfax Sfax Sud
+sidi_bouzid Bir El Hafey
+sidi_bouzid Jelma
+sidi_bouzid Meknassy
+sidi_bouzid Menzel Bouzaiane
+sidi_bouzid Ouled Haffouz
+sidi_bouzid Regueb
+sidi_bouzid Sidi Bouzid Est
+sidi_bouzid Sidi Bouzid Ouest
+sidi_bouzid Souk Jedid
+siliana Bargou
+siliana Bou Arada
+siliana El Krib
+siliana Gaâfour
+siliana Kesra
+siliana Makthar
+siliana Rouhia
+siliana Siliana Nord
+siliana Siliana Sud
+sousse Akouda
+sousse Enfidha
+sousse Hammam Sousse
+sousse Hergla
+sousse Kondar
+sousse Msaken
+sousse Sidi Bou Ali
+sousse Sidi El Hani
+sousse Sousse Médina
+sousse Sousse Riadh
+sousse Sousse Sidi Abdelhamid
+tataouine Bir Lahmar
+tataouine Dehiba
+tataouine Ghomrassen
+tataouine Remada
+tataouine Tataouine Nord
+tataouine Tataouine Sud
+tozeur Degache
+tozeur Hazoua
+tozeur Nefta
+tozeur Tameghza
+tozeur Tozeur
+zaghouan Bir Mcherga
+zaghouan El Fahs
+zaghouan Nadhour
+zaghouan Saouaf
+zaghouan Zaghouan
+
